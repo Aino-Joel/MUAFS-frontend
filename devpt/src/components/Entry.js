@@ -18,6 +18,24 @@ function Entry() {
       
             </div>   
             </section>  
+            <div class = "product">
+                <h2 class = "product-category">Recommended for you</h2>
+                <div class = "product-container">
+                    <div class = "product-card">
+                        <div class = "product-image">  
+                        <img src = "https://i.pinimg.com/564x/b1/04/5f/b1045fdf96ef94318d120bdd917ded2d.jpg" class = "product-thumb" alt = ""/>
+                    </div>
+                    <div class = "product-info">
+                        <br/>
+                    <h2 class = "product-brand"><Link to={'/hostels'}>Nakiyingi Hostel</Link></h2>
+                    <br/>
+                  
+                <span class = "price">shs 1,100,000</span><span class = "actual-price">4.5(1234) </span>
+                </div>
+                </div>
+                
+            </div>
+    </div>
          </div>     
          
           
