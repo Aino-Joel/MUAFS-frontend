@@ -7,10 +7,15 @@ function Entry() {
     return (
         <div>
             <Header />
-           hey
            <section className="hero"  >
           <div className="content">
-            <h1>Be Creative.</h1> 
+            <h1>Be Creative.</h1>
+            <p>
+          {" "}
+          Trust us to get you a home away from home
+        </p>
+        <Link to={'/hostels'}>Start Now</Link>
+      
             </div>   
             </section>  
          </div>     
