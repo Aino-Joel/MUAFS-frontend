@@ -59,7 +59,32 @@ function Entry() {
                 
 </div>      
             </div>
-            
+            <div class = "product-card">
+                    <div class = "product-image">
+                       
+                    <img src = "./pictures/room1.jpg" class = "product-thumb" alt = ""/>
+                </div>
+                <div class = "product-info">
+                    <br/>
+                <h2 class = "product-brand">Soam</h2>
+                <br/>
+                <span class = "price">ugshs 52000</span><span class = "actual-price">ugshs 65000 </span>
+                
+</div>      
+            </div>
+            <div class = "product-card">
+                    <div class = "product-image">
+                       
+                    <img src = "./pictures/room1.jpg" class = "product-thumb" alt = ""/>
+                </div>
+                <div class = "product-info">
+                    <br/>
+                <h2 class = "product-brand">Soam</h2>
+                <br/>
+                <span class = "price">ugshs 52000</span><span class = "actual-price">ugshs 65000 </span>
+                
+</div>      
+            </div>
             </div>
     </div>
          </div>     
