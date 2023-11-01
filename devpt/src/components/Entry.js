@@ -27,7 +27,7 @@ function Entry() {
                     </div>
                     <div class = "product-info">
                         <br/>
-                    <h2 class = "product-brand"><Link to={'/hostels'}>Nakiyingi Hostel</Link></h2>
+                    <h1 class = "product-brand"><Link to={'/hostels'}>Nakiyingi Hostel</Link></h1>
                     <br/>
                   
                 <span class = "price">shs 1,100,000</span><span class = "actual-price">4.5(1234) </span>
