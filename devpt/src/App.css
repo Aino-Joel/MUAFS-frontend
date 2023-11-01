@@ -131,12 +131,15 @@ img{
 }
 .product-brand{
   text-transform: capitalize;
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
-  color:black;  
+  color:black; 
+  
+
 }
 .product-brand a{
   color:black;
+  text-decoration: none;
 }
 .product-brand a:hover{
   color:rgb(115, 115, 66);
