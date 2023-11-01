@@ -7,7 +7,7 @@ function Entry() {
     return (
         <div>
             <Header />
-           hry
+           hey
        
          </div>     
                 
