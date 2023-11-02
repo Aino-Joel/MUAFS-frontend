@@ -94,7 +94,7 @@ function Entry() {
     &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{" "}
     <span className='price'>
 
-    <Link to={'/ratings'}>View all hostels</Link>
+    <Link to={'/hostels'}>View all hostels</Link>
       
     </span>
   </h2>
