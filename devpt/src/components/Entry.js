@@ -81,7 +81,7 @@ function Entry() {
                     <br/>
                 <h2 class = "product-brand">Soam</h2>
                 <br/>
-                <span class = "price">ugshs 52000</span><span class = "actual-price">ugshs 65000 </span>
+                <span class = "price">ugshs 72000</span><span class = "actual-price">ugshs 65000 </span>
                 
 </div>      
             </div>
