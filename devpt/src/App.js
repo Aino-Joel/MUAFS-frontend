@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router-dom';
 import Entry from './components/Entry';
 import Services from './components/Services';
 import Ratings from './components/Ratings';
+import Footer from './components/Footer';
 
 
 import Hostels from './components/Hostels';
@@ -20,6 +21,7 @@ function App() {
         
       </Routes>
       
+      <Footer/>
      
     </div>
   );
