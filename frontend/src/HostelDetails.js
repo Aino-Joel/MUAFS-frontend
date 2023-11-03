@@ -1,6 +1,8 @@
+import { useParams } from "react-router-dom";
 import useFetch from "./useFetch";
 
 const HostelDetails = () => {
+    const {id} = useParams();
     const { data:hostel, error, isLoading } = useFetch('http://localhost:8000/hostels/'+id);
 
     return ( 
