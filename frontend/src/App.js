@@ -2,7 +2,7 @@ import Navbar from './Navbar';
 import Home from './Home';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import HostelDetails from './HostelDetails';
-// import NotFound from './NotFound';
+import NotFound from './NotFound';
 
 function App() {
   return (
@@ -17,9 +17,9 @@ function App() {
             <Route path="/hostels/:id">
               <HostelDetails />
             </Route>
-            {/* <Route path='*'>
+            <Route path='*'>
               <NotFound />
-            </Route> */}
+            </Route>
           </Switch>
         </div>
       </div>
