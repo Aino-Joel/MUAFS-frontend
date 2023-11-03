@@ -1,9 +1,7 @@
 import useFetch from "./useFetch";
 
 const HostelDetails = () => {
-    const { id } = useParams();
     const { data:hostel, error, isLoading } = useFetch('http://localhost:8000/hostels/'+id);
-    const history = useHistory();
 
     return ( 
         <div className="hostel-details">
