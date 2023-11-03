@@ -23,7 +23,6 @@ const HostelDetails = () => {
                     <h2>{ hostel.name }</h2>
                     <p>Owned By: { hostel.custodian }</p>
                     <div>Number of Rooms: { hostel.rooms }</div>
-                    <button onClick={handleClick}>Delete</button>
                 </article>
             )}
         </div>
